@@ -5,5 +5,5 @@
     "**/.sfdx": true
   },
   "codeBuilder.showWelcomePage": true,
-  "salesforce.einsteinForDevelopers.enable": false
+  "salesforce.einsteinForDevelopers.enable": true
 }
