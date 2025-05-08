@@ -50,6 +50,9 @@ public with sharing class B2B_FeaturedProducts_Util {
 
     }
 
+
+
+
     public static final String ERROR = 'error';
     public static final String INFO = 'info';
     public static final String SUCCESS = 'success';
